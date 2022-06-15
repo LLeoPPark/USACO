@@ -3,8 +3,8 @@ public class USACOTeleportation {
 
 	public static void main(String[] args) throws IOException{
 		
-		BufferedReader in = new BufferedReader(new FileReader("input.txt"));
-		PrintWriter out = new PrintWriter("output.txt");
+		BufferedReader in = new BufferedReader(new FileReader("teleport.in"));
+		PrintWriter out = new PrintWriter("teleport.out");
 		
 		String[] input = in.readLine().split(" ");
 		int a = Integer.parseInt(input[0]);
