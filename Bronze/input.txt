@@ -1,4 +1,3 @@
-3
-fox box
-dog cat
-car bus
+COW
+XXO
+ABC
